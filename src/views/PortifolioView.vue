@@ -20,8 +20,8 @@
 
             <v-divider class="mx-4"></v-divider>
             <v-card-actions>
-                <v-btn color="deep-purple lighten-2" text @click="reserve">
-                    Visualizar
+                <v-btn color="deep-purple lighten-2" text>
+                    <a href="https://www.linkedin.com/feed/update/urn:li:activity:7075206824043364352/" target="_blank">Visualizar</a>
                 </v-btn>
             </v-card-actions>
         </v-card>
