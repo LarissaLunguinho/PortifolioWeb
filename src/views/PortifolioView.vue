@@ -25,6 +25,31 @@
                 </v-btn>
             </v-card-actions>
         </v-card>
+        <!-- SEGUNDO CARD -->
+        <v-card class="mx-auto my-8" max-width="374">
+            <template slot="progress">
+                <v-progress-linear color="deep-purple" height="10" indeterminate></v-progress-linear>
+            </template>
+
+            <v-img height="200" src="https://pbs.twimg.com/media/FzK0e0BWwAEx5SA?format=png&name=small"></v-img>
+
+            <v-card-title>Cardápio Ilustrativo</v-card-title>
+
+            <v-card-text>
+                <div class="mb-2 text-subtitle-1">
+                    JAVA SPRING, REACT e TYPESCRIPT
+                </div>
+
+                <div>Cardápio de alimentos com função de incluir e visualizar, com campos de 'título, valor e imagem'.</div>
+            </v-card-text>
+
+            <v-divider class="mx-4"></v-divider>
+            <v-card-actions>
+                <v-btn color="deep-purple lighten-2" text>
+                    <a href="https://www.linkedin.com/feed/update/urn:li:ugcPost:7077359061129674752/" target="_blank">Visualizar</a>
+                </v-btn>
+            </v-card-actions>
+        </v-card>
 
     </div>
 </template>
