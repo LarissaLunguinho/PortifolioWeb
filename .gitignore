@@ -2,6 +2,12 @@
 node_modules
 /dist
 
+# PASSO A PASSO
+#   instalar o nodeJS
+#   npm install -g vue-cli
+#   npm i
+#   npm run serve
+
 
 # local env files
 .env.local

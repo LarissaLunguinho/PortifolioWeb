@@ -13,7 +13,7 @@
         &emsp;&emsp;&lt;/h1&gt; <br><br>
 
         &emsp;&emsp;&lt;p&gt;
-        <p class="profissao">&emsp;&emsp;&emsp;Desenvolvedora back-end</p>
+        <p class="profissao">&emsp;&emsp;&emsp;Desenvolvedora fullstack</p>
         &emsp;&emsp;&emsp;&lt;/p&gt; <br><br>
 
         &emsp;&lt;/body&gt; <br><br>

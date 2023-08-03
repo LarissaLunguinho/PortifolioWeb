@@ -50,6 +50,31 @@
                 </v-btn>
             </v-card-actions>
         </v-card>
+        <!-- TERCEIRO CARD -->
+        <v-card class="mx-auto my-8" max-width="374">
+            <template slot="progress">
+                <v-progress-linear color="deep-purple" height="10" indeterminate></v-progress-linear>
+            </template>
+
+            <v-img height="200" src="https://pbs.twimg.com/media/F2nWz0bacAEMjJL?format=png&name=900x900"></v-img>
+
+            <v-card-title>Projeto Automóveis</v-card-title>
+
+            <v-card-text>
+                <div class="mb-2 text-subtitle-1">
+                    HTML e JAVASCRIPT
+                </div>
+
+                <div>Projeto de carros e motos com função de visualizar detalhes e excluir, com campos de 'nome, descrição e imagem', possuindo também a funcionalidade de alterar o tema da páginae entre dark e light.</div>
+            </v-card-text>
+
+            <v-divider class="mx-4"></v-divider>
+            <v-card-actions>
+                <v-btn color="deep-purple lighten-2" text>
+                    <a href="https://www.linkedin.com/feed/update/urn:li:activity:7092880596066066432/" target="_blank">Visualizar</a>
+                </v-btn>
+            </v-card-actions>
+        </v-card>
 
     </div>
 </template>

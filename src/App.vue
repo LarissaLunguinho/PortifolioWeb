@@ -8,7 +8,7 @@
           <v-list>
             <v-list-item>
               <v-img
-                src="https://media.licdn.com/dms/image/D4E03AQFYO6ZTnGBBvQ/profile-displayphoto-shrink_800_800/0/1665001802783?e=2147483647&v=beta&t=vy8eWLKDqv3NqGNkwZKH-jxGa6-gw3bKjO2Wuddi32M"
+                src="https://media.licdn.com/dms/image/D4D03AQF860ERXljKtw/profile-displayphoto-shrink_800_800/0/1690927884641?e=1696464000&v=beta&t=6OVgVAKpEXotepTL67_BWdHyr3N2SjESjaOZR1CB5VY"
                 width="100%" permanent></v-img>
             </v-list-item>
 
@@ -17,7 +17,7 @@
                 <v-list-item-title class="text-h7">
                   Larissa Lunguinho
                 </v-list-item-title>
-                <v-list-item-subtitle>Desenvolvedora back-end</v-list-item-subtitle>
+                <v-list-item-subtitle>Desenvolvedora fullstack</v-list-item-subtitle>
               </v-list-item-content>
             </v-list-item>
           </v-list>
